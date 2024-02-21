@@ -28,7 +28,7 @@ El código proporciona varias funciones para interactuar con el teclado, incluye
 La función `main` es la función principal del programa. Realiza las siguientes tareas:
 
 1. Inicializa el teclado y el LCD.
-2. Imprime "Tutorial EC3083:" en la primera línea del LCD.
+2. Imprime "Tutorial EC3081:" en la primera línea del LCD.
 3. Lee una tecla presionada en el teclado y la convierte a una cadena.
 4. Imprime la tecla presionada en la segunda línea del LCD.
 5. Entra en un bucle infinito, donde lee una nueva tecla presionada en el teclado. Si la nueva tecla es diferente de la tecla anterior, actualiza la tecla, convierte la nueva tecla a una cadena, limpia la segunda línea del LCD e imprime la nueva tecla en la segunda línea del LCD.
